@@ -4,11 +4,11 @@
 ## 소개
 LXGW 마커고딕 KR은 마커 펜으로 손으로 쓴 POP 글꼴로, Tanukizamurai가 처음 디자인한 [Tanugo](https://tanukifont.com/tanugo/)에서 파생된 오픈 소스 글꼴입니다. 이 글꼴은 한글 타이포그래피용으로 제작되었으며, 자주 사용되는 한글 음절과 몇 가지 한자 세트가 포함되어 있습니다.
 
-![](./documentation/markerkr-1.png)
+![](./documentation/markerkr-1.PNG)
 
-![](./documentation/markerkr-2.png)
+![](./documentation/markerkr-2.PNG)
 
-![](./documentation/markerkr-3.png)
+![](./documentation/markerkr-3.PNG)
 ### 문자
 - KS X 1001의 모든 현대 한글 음절(2,350자);
 - KS X 1001의 모든 한자(4,620자);
