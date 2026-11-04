@@ -2,7 +2,7 @@ English | [한국어](./README-KR.md) | [繁體中文](./README-CHT.md)
 # LXGW Marker Gothic KR / LXGW 마커고딕 KR / 霞鶩漫黑 KR
 The Korean Edition of [LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGothic).
 ## Introduction
-LXGW Marker Gothic KR is an open-source font derived from [Tanugo](https://tanukifont.com/tanugo/), a script font handwritten by marker pen and originally designed by Tanukizamurai. This font is made for Korean typography and contains a set of common used Hangul syllables and a few Hanjas.
+LXGW Marker Gothic KR is an open-source font derived from [Tanugo](https://tanukifont.com/tanugo/), a POP font handwritten by marker pen and originally designed by Tanukizamurai. This font is made for Korean typography and contains a set of common used Hangul syllables and a few Hanjas.
 
 ![](./documentation/markerkr-1.png)
 
