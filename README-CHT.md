@@ -33,4 +33,4 @@
 - 原始字型設計師：たぬき侍（Tanukizamurai）
 - 衍生字型開發者：LXGW 霞鶩
 ## 更多開源韓文字型
-- [霞鹜文楷 KR](https://github.com/lxgw/LxgwWenKaiKR)
+- [霞鶩文楷 KR](https://github.com/lxgw/LxgwWenKaiKR)
