@@ -23,6 +23,7 @@ According to the license, you can use, embed, modify and redistribute this font 
 ### Restrictions 
 - You cannot sell this font itself.
 - You cannot redistribute this font under the license except SIL OFL 1.1.
+- Without written authorization from the author (@lxgw), the Reserved Name “LXGW” may not be included in the names of Derivative Fonts.
 ## Authors
 - Original designer: Tanukizamurai
 - Derivative developer: LXGW
