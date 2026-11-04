@@ -26,3 +26,5 @@ LXGW 마커고딕 KR은 마커 펜으로 손으로 쓴 POP 글꼴로, Tanukizamu
 ## 저자
 - 오리지널 디자이너: Tanukizamurai
 - 파생 개발자: LXGW 
+## 더 많은 오픈소스 한국어 글꼴
+- [LXGW 문해 KR](https://github.com/lxgw/LxgwWenKaiKR)
