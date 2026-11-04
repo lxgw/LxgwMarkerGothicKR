@@ -4,11 +4,11 @@ The Korean Edition of [LXGW Marker Gothic](https://github.com/lxgw/LxgwMarkerGot
 ## Introduction
 LXGW Marker Gothic KR is an open-source font derived from [Tanugo](https://tanukifont.com/tanugo/), a POP font handwritten by marker pen and originally designed by Tanukizamurai. This font is made for Korean typography and contains a set of common used Hangul syllables and a few Hanjas.
 
-![](./documentation/markerkr-1.png)
+![](./documentation/markerkr-1.PNG)
 
-![](./documentation/markerkr-2.png)
+![](./documentation/markerkr-2.PNG)
 
-![](./documentation/markerkr-3.png)
+![](./documentation/markerkr-3.PNG)
 ### Characters
 - All modern Hangul syllables in KS X 1001 (2,350 characters);
 - All Hanjas in KS X 1001 (4,620 characters);
