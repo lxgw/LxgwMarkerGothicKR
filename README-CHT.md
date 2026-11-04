@@ -32,3 +32,5 @@
 ## 作者
 - 原始字型設計師：たぬき侍（Tanukizamurai）
 - 衍生字型開發者：LXGW 霞鶩
+## 更多開源韓文字形
+- [霞鹜文楷 KR](https://github.com/lxgw/LxgwWenKaiKR)
