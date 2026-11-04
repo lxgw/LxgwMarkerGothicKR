@@ -1,5 +1,5 @@
 [English](./README.md) | [한국어](./README-KR.md) | 繁體中文 
-# 霞鶩漫黑 KR / LXGW WenKai KR / LXGW 문해 KR
+# 霞鶩漫黑 KR / LXGW Marker Gothic KR / LXGW 마커고딕 KR
 [霞鶩漫黑](https://github.com/lxgw/LxgwMarkerGothic)韓文版。
 
 ## 字體簡介
@@ -7,11 +7,11 @@
 
 「霞鶩漫黑 KR」爲韓文排版而製作，包含了常用諺文音節，以及一些漢字。
 
-![](./documentation/markerkr-1.png)
+![](./documentation/markerkr-1.PNG)
 
-![](./documentation/markerkr-2.png)
+![](./documentation/markerkr-2.PNG)
 
-![](./documentation/markerkr-3.png)
+![](./documentation/markerkr-3.PNG)
 ### 包含字符
 - KS X 1001 收錄的所有諺文音節，共 2,350 個；
 - KS X 1001 收錄的所有漢字，共 4,620 個；
